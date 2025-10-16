@@ -197,7 +197,9 @@ const Contact = () => {
             className="space-y-6"
           >
             <input type="hidden" name="form-name" value="contact" />
-            
+            <p hidden>
+            <label>Don't fill this out: <input name="bot-field" /></label>
+            </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
