@@ -33,7 +33,7 @@ const Projects = () => {
       description:
         "A smart platform that helps students plan their academic journey and receive career guidance based on interests and skills.",
       image: "/project-coming-soon.jpg",
-      technologies: ["React", "Tailwind CSS", "JavaScript"],
+      technologies: ["React", "Tailwind CSS", "Python"],
       liveLink: "https://career-guidance-system-m14x.onrender.com/",
       githubLink:
         "https://github.com/chrisjone007/career_guidance_system.git",
